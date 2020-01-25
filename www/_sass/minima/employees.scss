@@ -1,0 +1,40 @@
+.employee {
+    margin-top: 1rem;
+    border-bottom: 1px solid #e8e8e8;
+
+    &:first-child {
+        margin-top: 0;
+    }
+
+    &:last-child {
+        border-bottom: none;
+    }
+
+    .employee-photo {
+        border-radius: 50%;
+        width: 150px;
+    }
+
+    .name {
+        font-size: 120%;
+        font-weight: lighter;
+    }
+
+    .title {
+        font-weight: bold;
+    }
+
+    .bio {
+        font-size: 80%;
+    }
+}
+
+.employee:nth-child(2n+1) .employee-photo { 
+    float: left;
+    margin-right: 1rem;
+}
+
+.employee:nth-child(2n) .employee-photo {
+    float: right;
+    margin-left: 1rem;
+}

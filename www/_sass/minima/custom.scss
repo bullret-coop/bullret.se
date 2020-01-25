@@ -1,0 +1,101 @@
+@import "lightbox";
+@import "employees";
+
+.site-nav {
+    line-height: 1;
+}
+
+a[href="#lek"] img {
+    float: right;
+}
+
+#main-nav {
+    background: #fdfdfd;
+    text-decoration: none;
+
+    li {
+        display: block;
+        transition-duration: 0.5s;
+        float: left;
+        position: relative;
+        text-decoration: none;
+    }
+
+    &>li {
+        padding: 1rem;
+    }
+
+    li:hover {
+        cursor: pointer;
+        background: darkorange;
+    }
+
+    li ul {
+        visibility: hidden;
+        opacity: 0;
+        position: absolute;
+        transition: all 0.5s ease;
+        margin-top: 1rem;
+        left: 0;
+        display: none;
+        min-width: 5rem;
+        margin-left: 0;
+    }
+
+    li:hover > ul,
+    li:focus-within > ul,
+    li ul:hover  {
+        visibility: visible;
+        opacity: 1;
+        display: block;
+        background: darkorange;
+    }
+
+    li ul li {
+        clear: both;
+        width: 100%;
+        padding: 0.5rem 1rem;
+        background: #fdfdfd;
+        border-bottom: 1px solid #e8e8e8;
+
+        &:hover {
+            background: darkorange;
+        }
+
+        &:last-child {
+            border-bottom: none;
+        }
+    }
+
+    a {
+        text-decoration: none;
+        display: inline-block;
+        width: 100%;
+    }
+}
+
+
+
+#map-embed {
+    float: right;
+}
+
+.left-col {
+    float: left;
+    overflow: hidden;
+    width: calc(100% - 310px);
+}
+
+#contact-details {
+    .u-photo { display: none; }
+    .p-name { visibility: hidden; }
+    .h-geo img {
+        vertical-align: bottom;
+    }
+}
+
+.h-event {
+.p-name { margin-bottom: 0; font-size: 100%; }
+.time { color: #828282; font-size: 80%; }
+.p-location { display: none; }
+}
