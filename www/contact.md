@@ -7,7 +7,7 @@ permalink: /kontakt/
 <div class="left-col">
 Besök oss på <br>
 <div class="h-card" id="contact-details">
-<img class="u-photo" src="http://example.org/photo.png" alt="" />
+<img class="u-photo" src="/img/bullret.jpg" alt="Bullrets lokaler" />
 <p>
   <a class="p-name u-url" href="https://bullret.se">Bullret, Bullarens Föräldrakooperativa Förskola ek. för.</a>
   <span class="p-street-address">Villavägen 20</span><br>
