@@ -5,10 +5,6 @@
     line-height: 1;
 }
 
-a[href="#lek"] img {
-    float: right;
-}
-
 #ext-logo {
     float: right;
 }
@@ -79,16 +75,20 @@ a[href="#lek"] img {
     }
 }
 
+@media (min-width: 576px) {    
+    a[href="#lek"] img {
+        float: right;
+    }
 
+    #map-embed {
+        float: right;
+    }
 
-#map-embed {
-    float: right;
-}
-
-.left-col {
-    float: left;
-    overflow: hidden;
-    width: calc(100% - 310px);
+    .left-col {
+        float: left;
+        overflow: hidden;
+        width: calc(100% - 310px);
+    }
 }
 
 #contact-details {
