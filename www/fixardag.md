@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Insatser och fixardagar
-permalink: /kooperativ/fixardag
+permalink: /kooperativ/fixardag/
 ---
 
 Alla familjer är med på ett städschema. Det innebär att man städar på förskolan ett antall gånger pr termin. Antalet städningar beror på antalet familjer i kooperativet. Några ansvarsområden i styrelsen städar inte, men ansvarar för matinköp istället. 
