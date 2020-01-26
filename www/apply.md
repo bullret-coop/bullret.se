@@ -4,7 +4,6 @@ title: Ansökan
 permalink: /intresse/   
 ---
 
-### Kö och avgift
 Om du vill anmäla ditt barn till Bullret vänder du dig direkt till oss. Vi har en egen kö och ingår inte i kommunens förskolekö. Du kan anmäla ditt barn precis när du vill – redan när barnet är nyfött. Skicka gärna en intresseanmälan så tar vi kontakt med dig. 
 
 Vi har för närvarande helt fullt på Bullret och kan därför inte ta emot nya barn för läsåret 2019/2020. Vi öppnar för ansökan igen till hösten 2020.
