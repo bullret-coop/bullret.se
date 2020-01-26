@@ -89,6 +89,10 @@
         overflow: hidden;
         width: calc(100% - 310px);
     }
+
+    .mobile-only {
+        display: none !important;
+    }
 }
 
 #contact-details {
