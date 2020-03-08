@@ -19,13 +19,15 @@ Vi har en strukturerad verksamhet där rutiner är en viktig del av dagen. Det s
 * **10.00** Utelek eller annan pedagogisk verksamhet
 * **11.15** Lunch
 * **12.00** De barn som behöver får sova och de andra har läsvila
-* **12.30** Samling för 5 o 6 åringar (matematik, språk, teknik mm)
+* **12.30** Samling för 5 och 6 åringar (matematik, språk, teknik, mm.)
 * **13:00** Fri lek inne eller ute
 * **14.30** Mellanmål
 * **15.00** Utelek eller annan pedagogisk verksamhet
 * **17.15** Förskolan stänger
 
 ## Planerad verksamhet/utbildning måndag till fredag
+
+{% lightbox skog|skog.jpg|skog_thumb.jpg %}
 
 * **Måndagar** På förmiddagen har vi rörelse/gymnastik. Vad vi gör och vart vi är beror lite på barngruppens behov och intressen. Ibland går vi till skogen, leker traditionella lekar på gården, har röris, massage, yoga inne. 
 * **Tisdagar** Samling då vi oftast sjunger, spelar teater eller berättar sagor. 

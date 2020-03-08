@@ -4,9 +4,15 @@ title: Öppet hus
 permalink: /om/oppet-hus/
 ---
 
+<div class="right">
+<img src="/img/oppethus.jpg" alt="Sagorummet med duk och ljus" width="300"/>
+<br>
+<img src="/img/oppethus2.jpg" alt="Sagorummet med duk och ljus" width="300"/>
+</div>
+
 Kom gärna och hälsa på för att se hur vi har det.
 
-Varje termin har vi öppet hus, där man kan träffa pedagoger och föräldrar, ställa frågor och se hur vi har det. Mer information kommer upp på sidan inför varje öppet hus. Är ni intresserade av att ha ert barn på Bullret och vill boka en annan tid för ett besök ringer ni direkt till förskolan och pratar med vår förskolechef om vilken tid som passar bäst.
+Varje termin har vi öppet hus, där man kan träffa pedagoger och föräldrar, ställa frågor och se hur vi har det. Mer information kommer upp på sidan inför varje öppet hus. Är ni intresserade av att ha ert barn på Bullret och vill boka en annan tid för ett besök ringer ni [direkt till förskolan på 070 607 11 84](tel:+46706071184) och pratar med vår förskolechef om vilken tid som passar bäst.
 
 ## 2020
 

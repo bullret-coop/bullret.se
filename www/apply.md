@@ -6,10 +6,12 @@ permalink: /intresse/
 
 Om du vill anmäla ditt barn till Bullret vänder du dig direkt till oss. Vi har en egen kö och ingår inte i kommunens förskolekö. Du kan anmäla ditt barn precis när du vill – redan när barnet är nyfött. Skicka gärna en intresseanmälan så tar vi kontakt med dig. 
 
-Vi har för närvarande helt fullt på Bullret och kan därför inte ta emot nya barn för läsåret 2019/2020. Vi öppnar för ansökan igen till hösten 2020.
+Vi har [öppet hus](/om/oppet-hus/) där intresserade föräldrar kan komma på besök och kika. Det finns också möjlighet att boka en annan tid.
+
+Vi har för närvarande helt fullt på Bullret och kan därför inte ta emot nya barn för läsåret 2019/2020. Vi har ledig plats från hösten 2020.
 Ni kan dock redan nu ställa er i kö och anmäla ert intresse på [styrelse@bullret.se](mailto:styrelse@bullret.se). Bifoga då följande information:
 
-* Namn för barnet/barnen du söker plats för. 
+* Namn för barnet/barnen du söker plats för.
 * Födelsedata för barnet/barnen du söker plats för.
 * Önskat inskolningsdatum.
 * Kort information om er familj.
