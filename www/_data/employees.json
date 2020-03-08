@@ -2,25 +2,19 @@
     {
         "name": "Heléne",
         "title": "Förskolechef",
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ullamcorper tempus ullamcorper. Fusce id iaculis magna. Quisque vehicula, risus eu laoreet pulvinar, justo metus pharetra mauris, et sodales mauris tortor sit amet urna. Mauris laoreet massa vel dapibus interdum. Phasellus elementum ornare felis vitae rutrum. Aenean in ligula in lectus iaculis posuere ut in mi. Curabitur id condimentum arcu, quis sodales elit. Nullam sit amet nulla dolor. Aenean in diam rhoncus, suscipit nisi eget, volutpat augue. Sed vehicula sem ac accumsan faucibus. Suspendisse turpis est, vehicula sed viverra at, mattis quis sapien. Morbi euismod molestie congue. Phasellus accumsan sem mauris, non vulputate ipsum tincidunt ut. Mauris malesuada enim non est suscipit elementum.",
+        "bio": "",
         "photo": "person"
     },
     {
         "name": "Fia",
         "title": "Barnskötare",
-        "bio": "Vivamus interdum eget nunc ac rutrum. Maecenas gravida faucibus diam, ut venenatis est. Phasellus rhoncus sit amet ipsum nec auctor. Sed ultricies metus ut mauris mattis, vel condimentum risus gravida. Vestibulum lacinia libero eget ipsum hendrerit varius. Quisque eu ultrices lectus. Phasellus egestas dignissim elit, quis congue nulla fermentum quis. Sed mattis eu lorem vel ultricies. Proin faucibus mi sapien, at molestie neque hendrerit ac. Vivamus in pretium eros, at blandit lorem. Mauris eu erat ultricies, aliquet massa sed, feugiat elit. Nullam pulvinar semper convallis.",
+        "bio": "",
         "photo": "person"
     },
     {
         "name": "Lisa",
         "title": "Barnskötare",
-        "bio": "Mauris nunc erat, ultrices in nulla sit amet, scelerisque posuere orci. Pellentesque mattis odio vel efficitur volutpat. Nunc sed nulla eleifend, iaculis mauris at, pharetra ante. Maecenas ultrices eleifend magna, mattis iaculis lorem ornare sed. Morbi aliquet congue porta. Donec at lectus ante. Vivamus quam orci, posuere eu arcu sed, luctus auctor tortor. Quisque ac elit sagittis, vulputate eros non, vulputate diam. In luctus condimentum libero, in condimentum mauris. Fusce bibendum erat ut quam maximus laoreet. Praesent finibus sed urna id placerat. Vestibulum ut porttitor risus. Proin mattis aliquet ultrices.",
+        "bio": "",
         "photo": "person"
     },
-    {
-        "name": "Malin",
-        "title": "Barnskötare",
-        "bio": "Proin elementum pulvinar massa. Duis sollicitudin auctor placerat. Sed ante velit, malesuada sit amet magna vel, malesuada imperdiet tortor. Curabitur varius mi ut diam bibendum, a lobortis massa maximus. Curabitur faucibus nulla quis sem commodo, id bibendum sapien aliquet. Nulla bibendum quis ex sed dignissim. Cras ultricies iaculis metus, nec rhoncus odio maximus in. Duis a fringilla nisl. Aenean et euismod velit. Nunc porta aliquet auctor. Duis hendrerit arcu at nunc mollis suscipit. Ut posuere tristique lorem, quis sagittis arcu ultrices ac.",
-        "photo": "person"
-    }
 ]
