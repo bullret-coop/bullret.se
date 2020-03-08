@@ -5,8 +5,22 @@
     line-height: 1;
 }
 
+.site-header {
+    background: url(/img/headerbg.jpg) left no-repeat;
+    min-height: 150px;
+}
+
 #ext-logo {
     float: right;
+}
+
+.right {
+    float: right;
+    margin-left: 1rem;
+
+    img {
+        margin-bottom: 1rem;
+    }
 }
 
 #main-nav {
@@ -77,7 +91,14 @@
 
 @media (min-width: 576px) {    
     a[href="#lek"] img {
+        float: left;
+        margin-right: 1.5rem;
+    }
+
+    a[href="#skog"] img {
         float: right;
+        margin-left: 1.5rem;
+        max-height: unset;
     }
 
     #map-embed {
@@ -88,6 +109,22 @@
         float: left;
         overflow: hidden;
         width: calc(100% - 310px);
+    }
+
+    .right-col {
+        float: right;
+        overflow: hidden;
+        width: calc(100% - 310px);
+    }
+
+    .row .left-col,
+    .row .right-col {
+        overflow: auto;
+        width: 50%;
+    }
+
+    .row .right-col {
+        text-align: right;
     }
 
     .mobile-only {
