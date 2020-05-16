@@ -1,0 +1,53 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">
+      {{ site.title | escape }}
+      <span class="footer-pull-right">
+        <a href="/lon/" class="small-icon">
+          <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="piggy-bank" role="img"
+          xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-piggy-bank fa-w-18 fa-2x">
+          <path fill="currentColor"
+            d="M560 224h-29.5c-8.8-20-21.6-37.7-37.4-52.5L512 96h-32c-29.4 0-55.4 13.5-73 34.3-7.6-1.1-15.1-2.3-23-2.3H256c-77.4 0-141.9 55-156.8 128H56c-14.8 0-26.5-13.5-23.5-28.8C34.7 215.8 45.4 208 57 208h1c3.3 0 6-2.7 6-6v-20c0-3.3-2.7-6-6-6-28.5 0-53.9 20.4-57.5 48.6C-3.9 258.8 22.7 288 56 288h40c0 52.2 25.4 98.1 64 127.3V496c0 8.8 7.2 16 16 16h64c8.8 0 16-7.2 16-16v-48h128v48c0 8.8 7.2 16 16 16h64c8.8 0 16-7.2 16-16v-80.7c11.8-8.9 22.3-19.4 31.3-31.3H560c8.8 0 16-7.2 16-16V240c0-8.8-7.2-16-16-16zm-128 64c-8.8 0-16-7.2-16-16s7.2-16 16-16 16 7.2 16 16-7.2 16-16 16zM256 96h128c5.4 0 10.7.4 15.9.8 0-.3.1-.5.1-.8 0-53-43-96-96-96s-96 43-96 96c0 2.1.5 4.1.6 6.2 15.2-3.9 31-6.2 47.4-6.2z"
+            class=""></path>
+        </svg></a>
+        <a href="https://mail.bullret.se/" class="small-icon">
+        <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" role="img"
+          xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-envelope fa-w-16 fa-2x">
+          <path fill="currentColor"
+            d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"
+            class=""></path>
+        </svg></a>
+      </span>
+    </h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+            {{ site.author | escape }}
+            {%- else -%}
+            {{ site.title | escape }}
+            {%- endif -%}
+          </li>
+          {%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

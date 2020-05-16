@@ -84,7 +84,7 @@
     }
 }
 
-@media (min-width: 576px) {    
+@media (min-width: 576px) {
     a[href="#lek"] img {
         float: left;
         margin-right: 1.5rem;
@@ -139,4 +139,22 @@
 .p-name { margin-bottom: 0; font-size: 100%; }
 .time { color: #828282; font-size: 80%; }
 .p-location { display: none; }
+}
+
+.footer-pull-right {
+  display: block;
+  float: right;
+  text-align: right;
+  min-width: 100px;
+}
+
+.small-icon {
+  display: inline-block;
+  width: 18px;
+  vertical-align: text-top;
+  line-height: 1;
+}
+
+.small-icon + .small-icon {
+  padding-left: 10px;
 }
