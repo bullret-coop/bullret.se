@@ -160,8 +160,15 @@
 }
 
 #treskablinoll {
+  display: none;
   position: absolute;
   right: 15px;
   top: 15px;
   width: 170px;
+}
+
+@media (min-width: 1024px) {
+  #treskablinoll {
+    display: block !important;
+  }
 }
