@@ -4,6 +4,10 @@ title: Tre ska bli noll
 permalink: /treskablinoll/
 ---
 
+<div class="ext-logo large-margin-left large-margin-bottom">
+<img src="/img/treskablinoll.png" alt="Logo till Tre ska bli noll"/>
+</div>
+
 Bullret arbetar med integritet för våra barn. Därför har vi skrivit på [förskolebrevet](http://treskablinoll.nu/forskolebrevet/).
 
 Sexuellt utnyttjande av barn är ett allvarligt samhällsproblem i Sverige idag. Lågt räknat är det tre barn i varje klass som blir utsatta för sexuella övergrepp. Färska siffror säger nu att ett av fem barn utsätts i Sverige.<sup>*</sup> 90% av förövarna är en nära anhörig till barnen och tillsammans med förskolor kan vi förebygga problemen genom att lära barn och vuxna integritet.

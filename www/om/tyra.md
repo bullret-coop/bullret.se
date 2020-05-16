@@ -4,7 +4,7 @@ title: Tyra
 permalink: /om/tyra/
 ---
 
-<div id="ext-logo">
+<div class="ext-logo">
 <img src="https://tyra.io/se/img/logo.png" alt="Logo till Tyra"/>
 </div>
 

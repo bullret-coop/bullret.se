@@ -5,7 +5,7 @@
     line-height: 1;
 }
 
-#ext-logo {
+.ext-logo {
     float: right;
 }
 
@@ -171,4 +171,12 @@
   #treskablinoll {
     display: block !important;
   }
+}
+
+.large-margin-left {
+  margin-left: 10px;
+}
+
+.large-margin-bottom {
+  margin-bottom: 15px;
 }
