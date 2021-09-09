@@ -5,4 +5,4 @@ permalink: /mail/
 ---
 
 * [Logga in på webmail](https://mail.bullret.se/)
-* [Konfigurera epost på din enhet](/mail/setup)
+* [Konfigurera epost på din enhet](/mail/setup.html)
