@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jobb
-permalink: /jobb/   
+title: Lediga tjänster
+permalink: /jobb/
 ---
 
 ### Vikarier
