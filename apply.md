@@ -9,6 +9,7 @@ Om du vill anmäla ditt barn till Bullret vänder du dig direkt till oss. Vi har
 Vi har [öppet hus](/om/oppet-hus/) där intresserade föräldrar kan komma på besök och kika. Det finns också möjlighet att boka en annan tid.
 
 Vi har ledig plats från hösten 2022.
+
 Ni kan också ställa er i kö och anmäla ert intresse på [styrelse@bullret.se](mailto:styrelse@bullret.se). Bifoga då följande information:
 
 * Namn för barnet/barnen du söker plats för.
@@ -20,6 +21,8 @@ Ni kan också ställa er i kö och anmäla ert intresse på [styrelse@bullret.se
 Med denna intresseanmälan samtycker du till att personuppgifter behandlas för denna kontakt med förskolan Bullret.
 För att kunna ta del av vår verksamhet behöver du lämna de personuppgifter vi begär annars kan vi inte hantera din intresseanmälan.
 Notera att detta är endast en intresseanmälan direkt till förskolan Bullret.
+
+Vill ni prata med oss kan ni nå oss på telefon <a href="tel:+46706071184" class="p-tel">070-607 11 84</a> 
 
 
 <p>&nbsp;</p>
