@@ -5,6 +5,9 @@
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
         {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+        <a rel="author" href="{{ "/" | relative_url }}">
+            <img id="header-img" src="/img/teddybear.gif" alt="" height="95">
+        </a>
         <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
         {%- if titles_size > 0 -%}
@@ -44,6 +47,7 @@
                     </li>
                     <li><a href="/kontakt/">Kontakt</a></li>
                     <li><a href="/intresse/">Ansökan</a></li>
+                    <li><a href="/jobb/">Jobb</a></li>
                 </ul>
             </div>
         </nav>

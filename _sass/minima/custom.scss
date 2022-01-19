@@ -18,6 +18,12 @@
     }
 }
 
+#header-img {
+    height: 95px;
+    float: left;
+    margin-right: 20px;
+}
+
 #main-nav {
     background: #fdfdfd;
     text-decoration: none;
@@ -65,15 +71,13 @@
         width: 100%;
         padding: 0.5rem 1rem;
         background: #fdfdfd;
+        border-left: 1px solid #e8e8e8;
+        border-right: 1px solid #e8e8e8;
         border-bottom: 1px solid #e8e8e8;
         z-index: 100;
 
         &:hover {
             background: darkorange;
-        }
-
-        &:last-child {
-            border-bottom: none;
         }
     }
 
