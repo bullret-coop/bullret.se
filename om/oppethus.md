@@ -12,10 +12,13 @@ permalink: /om/oppet-hus/
 
 Kom gärna och hälsa på för att se hur vi har det.
 
-Varje termin har vi öppet hus, där man kan träffa pedagoger och föräldrar, ställa frågor och se hur vi har det. Mer information kommer upp på sidan inför varje öppet hus. Är ni intresserade av att ha ert barn på Bullret och vill boka en annan tid för ett besök ringer ni [direkt till förskolan på 070 607 11 84](tel:+46706071184) och pratar med vår förskolechef om vilken tid som passar bäst.
+Varje termin har vi öppet hus, där man kan träffa pedagoger och föräldrar, ställa frågor och se hur vi har det. Mer information kommer upp på sidan inför varje öppet hus. Är ni intresserade av att ha ert barn på Bullret och vill boka en annan tid för ett besök ringer ni [direkt till förskolan på 070 607 11 84](tel:+46706071184) och pratar med någon av våra pedagoger om vilken tid som passar bäst.
 
-## 2021
+### 2022
 
+Vi avvaktar med öppet hus medan COVID-19 pågår.
+
+### 2021
 
 <div class="h-event">
   <h3 class="p-name">Öppet hus</h3>
@@ -38,11 +41,11 @@ Varje termin har vi öppet hus, där man kan träffa pedagoger och föräldrar, 
 </div>
 
 
-## 2020
+### 2020
 
 På grund av COVID-19 har det inte blivit några öppna hus under 2020.
 
-## 2019
+### 2019
 
 <div class="h-event">
   <h3 class="p-name">Föräldrafika</h3>
