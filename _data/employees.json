@@ -1,10 +1,15 @@
 [
     {
-        "name": "Heléne",
-        "title": "Förskolechef/Rektor",
+        "name": "Katarina",
+        "title": "Rektor",
         "bio": "",
         "photo": "person"
     },
+    {
+        "name": "Amanda O",
+        "title": "Förskolelärarestudent",
+        "bio": "",
+        "photo": "person",
     {
         "name": "Fia",
         "title": "Barnskötare",
@@ -18,7 +23,7 @@
         "photo": "person"
     },
     {
-        "name": "Amanda",
+        "name": "Amanda A",
         "title": "Barnskötare",
         "bio": "",
         "photo": "person"
