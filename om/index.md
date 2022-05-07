@@ -14,7 +14,7 @@ Kooperativet har en fin utemiljö med närhet till båda stranden och skogen. Om
 
 <div class="row">
 <div class="left-col">
-<img src="/img/stranden.JPG" alt="Barn på stranden" />
+<img src="/img/Stranden.JPG" alt="Barn på stranden" />
 </div>
 <div class="right-col">
 <img src="/img/strandpromend.jpg" alt="Promenad i närområdet hörer med" />
