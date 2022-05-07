@@ -2,6 +2,6 @@
 layout: default
 ---
 
-![Bullrets lokaler sett från utområdet](/img/bullret.jpg)
+![Bullretsbarn](/img/Bullret_bobycycklar_forside.jpg)
 
 

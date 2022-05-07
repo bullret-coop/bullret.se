@@ -10,3 +10,4 @@ permalink: /avgifter/
 
 **Barnavgift**: 500 kr/mnd
 
+![frontsida](/img/Velkommen.jpg)

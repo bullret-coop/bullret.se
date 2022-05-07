@@ -35,3 +35,5 @@ Besök oss på <br>
 <div id="map-embed">
 <iframe src="https://kartor.eniro.se/m/bwtn5?embed=true&center=58.771226255588275,11.565170288085938&zoom=14&layer=map" width="300" height="300" frameborder="0" style="border:0"></iframe>
 </div>
+
+![Inngång för barnen, soluppgång i bakgrunden](/img/varfor.jpg)

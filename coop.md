@@ -23,3 +23,5 @@ Vi har olika ansvarsområden i styrelsen. När man har ett barn på Bullret för
 * Sekreterare
 * Ledamot
 * Valberedning 
+
+![snowman](/img/snolek.jpg)

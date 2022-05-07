@@ -10,11 +10,13 @@ Tack vare de familjerna som på den tiden bildade Bullret så finns i dag en ina
 
 Kooperativet har en fin utemiljö med närhet till båda stranden och skogen. Omgivningarna runt Bullret bjuder på ett rikt djur- och växtliv. Dagarna här är fyllda av aktiviteter och kreativ verksamhet. Minst en gång i veckan besöker barnen skogen och vi anser det är viktigt att barnen får lära sig att känna djur, växter och värna om naturen. På sommarhalvåret beter kossorna precis utanför förskolans område. Personalen tar även med barnen på stranden där man kan bada och äta lunch i det fri. 
 
+![velkommen](/img/Velkommen.jpg)
+
 <div class="row">
 <div class="left-col">
-<img src="/img/badplats.jpg" alt="Vy över stranden juni 2016. Bild av Tom Wollecki" />
+<img src="/img/stranden.JPG" alt="Barn på stranden" />
 </div>
 <div class="right-col">
-<img src="/img/utomrade.jpg" alt="Promenad i närområdet hörer med" />
+<img src="/img/strandpromend.jpg" alt="Promenad i närområdet hörer med" />
 </div>
 </div>

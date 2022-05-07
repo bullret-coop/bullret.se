@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rutiner som skapar trygghet
+title: Rutiner
 header: Rutiner
 permalink: /om/rutiner/   
 ---
@@ -35,4 +35,7 @@ Vi har en strukturerad verksamhet där rutiner är en viktig del av dagen. Det s
 * **Torsdagar** Temasamling som utgår från en sago bok. Barngruppen delas upp i två grupper. Den ena gruppen heter Upptäckarna och där är barnen ca 4-5 år. Den andra gruppen heter Nyfiken och där är barnen ca 1-3 år.
 * **Fredagar** Barnens samling. Det innebär att det är ett barn som får planera (tillsammans med en vuxen) och genomföra en samlig.
 
-Vi försöker att komma till biblioteket varannan månad, då vi tar med 2-3 barn som får låna böcker, leka och bara ha det mysigt på biblioteket.
+Vi försöker att komma till biblioteket varannan månad, då vi tar med 2-3 barn som får låna böcker, leka och bara ha det mysigt på biblioteket. Det senaste året har vi varit på stranden på Östad, vid havet i Grebbestad, på Nordens Ark och Vitlycke museum. Nu i maj -2022 åker vi på teater och i Juni åker hela förskolan till Nordens Ark :) 
+
+![Vitlycke](/img/Vitlycke.jpg)
+
