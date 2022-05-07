@@ -64,14 +64,19 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
+    wdm (0.1.1)
+    webrick (1.7.0)
 
 PLATFORMS
   universal-darwin-19
+  x64-mingw-ucrt
   x86_64-linux-musl
 
 DEPENDENCIES
   jekyll (~> 4.2)
   minima (~> 2.5)
+  wdm (>= 0.1.0)
+  webrick
 
 BUNDLED WITH
    2.2.24
