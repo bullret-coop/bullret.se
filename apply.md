@@ -8,7 +8,7 @@ Om du vill anmäla ditt barn till Bullret vänder du dig direkt till oss. Vi har
 
 Vi har [öppet hus](/om/oppet-hus/) där intresserade föräldrar kan komma på besök och kika. Det finns också möjlighet att boka en annan tid.
 
-Vi har ledig plats från hösten 2022.
+Vi har tre lediga platser från hösten 2022.
 
 Ni kan också ställa er i kö och anmäla ert intresse på [styrelse@bullret.se](mailto:styrelse@bullret.se). Bifoga då följande information:
 
@@ -39,3 +39,4 @@ Vår policy är att behandla alla personuppgifter i enlighet med EU:s dataskydds
 #### Rätt att begära rättelse, radering och begränsning? 
 Du kan alltid vända dig till oss och begära att dina personuppgifter rättas om uppgifterna är felaktiga eller ofullständiga samt begära att uppgifter raderas eller få ut uppgifter som sparas vid förfrågan.
 
+<img src="/img/strandpromend.jpg" alt="Promenad i närområdet hörer med" />
