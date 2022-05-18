@@ -4,11 +4,9 @@ title: Om Bullret
 permalink: /om/
 ---
 
-Föräldrakooperativet Bullret har bedrivit förskoleverksamhet i Bullaren för barn mellan 1 och 5 år sedan 1993.
+På Bullret möts du av engagerade pedagoger med fokus på barns bästa, här strävar vi efter att alla barn ska känna tilltro till sin egen förmåga och vi har en strävan om att ge alla barn i verksamheten ett reellt inflytande över sin utbildning. Hos oss finns plats för 15 upptäckare i åldrarna 1-5år. Föräldrakopperativet Bullret har bedrivit förskoleverksamhet i Bullaren sedan 1993 och firar därmed 30-årsjubileum nästa år. Vi är en liten genuin förskola med fantastiska möjligheter i vårt närområde, här upptäcker barn och pedagoger tillsammans och förskolan ligger ett stenkast ifrån skog, berg och vatten.
+Tack vare de familjerna som bildade Bullret så finns i dag en inarbetad, väl fungerande verksamhet med engagerad personal och föräldrar. Vi arbetar kontinuerligt för att bibehålla och utveckla kvaliteten och de särskilda fördelar som ett småskaligt föräldrakooperativ innebär.
 
-Tack vare de familjerna som på den tiden bildade Bullret så finns i dag en inarbetad, väl fungerande verksamhet med engagerad personal och föräldrar. Vi arbetar kontinuerligt för att bibehålla och utveckla kvaliteten och de särskilda fördelar som ett småskaligt föräldrakooperativ innebär.
-
-Kooperativet har en fin utemiljö med närhet till båda stranden och skogen. Omgivningarna runt Bullret bjuder på ett rikt djur- och växtliv. Dagarna här är fyllda av aktiviteter och kreativ verksamhet. Minst en gång i veckan besöker barnen skogen och vi anser det är viktigt att barnen får lära sig att känna djur, växter och värna om naturen. På sommarhalvåret beter kossorna precis utanför förskolans område. Personalen tar även med barnen på stranden där man kan bada och äta lunch i det fri. 
 
 ![velkommen](/img/Velkommen.jpg)
 

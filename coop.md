@@ -14,7 +14,7 @@ Bullrets styrelse väljs på årsmöte och är alla föräldrar till barn som g�
 
 ### Ansvarsområden
 
-Vi har olika ansvarsområden i styrelsen. När man har ett barn på Bullret förpliktar man sig att enligt stadgarna vara med i styrelsen i ett år per barn. Det är valfritt vilket år man väljer att gå med när barnet går i förskolan. Man kan också vara med fler år om man trivs.
+Vi har olika ansvarsområden i styrelsen. När man har ett barn på Bullret förpliktar man sig att enligt stadgarna vara med i styrelsen i ett år per barn. Det är valfritt vilket år man väljer att gå med när barnet går i förskolan. Man kan också vara med fler år i styrelsen om man önskar det.
 
 * Ordförande
 * Personalansvarig

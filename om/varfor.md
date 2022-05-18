@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Varför Bullret
-permalink: /om/varfor/
+title: Välkommen till Bullret
+permalink: /om/varforvalkommentillbullret/
 ---
 
 <div class="right">
 <img src="/img/framsida.jpg" alt="front" width="300"/>
 </div>
 
-Idén med vårt föräldrakooperativ är att med hjälp av föräldrarnas insatser skapa goda möjligheter för barn och personal genom god personaltäthet, genomtänkt pedagogik, trygg miljö och mycket utevistelse. Det är genom föräldrarnas engagemang som vi kan ha högre personaltäthet och en mindre barngrupp. Vi försöker även se till att familjerna har roligt tillsammans genom gemensamma aktiviteter: fixardagar, utflykter med mera. Varje år åker vi på en gemensam utflykt där även mor- och farföräldrar, storasyskon, osv. är välkomna. De senaste åren har vi varit på [Nordens Ark](https://nordensark.se/) och [Dalslands aktiviteter](https://www.dalslandsaktiviteter.se/). 
+Idén med vårt föräldrakooperativ är att med hjälp av föräldrarnas insatser skapa goda möjligheter för barn och personal att vistas i en förskola med god kvalité. Det görs genom hög personaltäthet där de utbildade pedagogerna även ges möjlighet till fortbildning. Kooperativet möjliggör för att ha en mindre barngrupp genom vårdnadshavares delaktighet och engagemang. Vilket bidrar till större flexibilitet och en trygg miljö där alla barn får goda möjligheter att skapa trygga relationer till både vuxna och barn. 
+Tillsammans skapar vi förskolan Bullret, därför välkomnas familjerna till gemensamma aktiviteter. Varje år åker vi på en gemensam utflykt där även mor- och farföräldrar, storasyskon, är välkomna. De senaste åren har vi varit på [Nordens Ark](https://nordensark.se/) och [Dalslands aktiviteter](https://www.dalslandsaktiviteter.se/). 
 
 ![Nordens ark](/img/nordensark.jpg)
 

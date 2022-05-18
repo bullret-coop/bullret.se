@@ -31,25 +31,4 @@ Vi har tre lediga platser på Bullret.
 
 [![Inbjudan föräldrafika 2022](/img/fika_2022.png)](/assets/2022_foraldrafika.pdf)
 
-### 2021
-
-<div class="h-event">
-  <h3 class="p-name">Öppet hus</h3>
-  <div class="time">
-    <time class="dt-start" datetime="2021-10-12 16:00">tisdag 2021-10-12, 16:00</time>
-    till <time class="dt-end" datetime="2021-10-12 17:30">17:30</time>
-    <span class="p-location">Bullret</span>
-  </div>
-  <p class="p-summary">Intresserade föräldrar kan träffa föräldrar och personal. Vi bjuder på kaffe och enkel fika.</p>
-</div>
-
-<div class="h-event">
-  <h3 class="p-name">Öppet hus</h3>
-  <div class="time">
-    <time class="dt-start" datetime="2021-10-05 16:00">tisdag 2021-10-05, 16:00</time>
-    till <time class="dt-end" datetime="2021-10-05 17:30">17:30</time>
-    <span class="p-location">Bullret</span>
-  </div>
-  <p class="p-summary">Intresserade föräldrar kan träffa föräldrar och personal. Vi bjuder på kaffe och enkel fika.</p>
-</div>
 
