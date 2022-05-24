@@ -25,4 +25,4 @@ Sagan fungerar även som vårt verktyg när vi arbetar med källkritik.
 
 Förskolan Bullret är en plats för alla att få leka, lära, växa och utvecklas.
 
-![Utflyktsbilde i narområde](/img/utflykt.jpg)
+![sinnesrummet_oli_tre](/img/sinnesrummet_oli_tre.jpg) ![amelia_dans](/img/amelia_dans_rum2.jpg) ![samlingsplatsen](/img/samling.jpg) 

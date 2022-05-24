@@ -12,6 +12,7 @@ Bullret drivs som en ekonomisk förening. Det innebär att man som förälder ä
 
 Bullrets styrelse väljs på årsmöte och är alla föräldrar till barn som går på Bullret. Styrelsen har ekonomiskt och juridiskt ansvar för Bullret. Föreningen har medlemsmöte en gång om året där en ny styrelse väljs, och styrelsemöte en gång i månaden.
 
+![sinnesrummet](/img/sinnesrummet_hela.jpg) ![gossedjur](/img/gossedjur.jpg) ![myssoffan](/img/myssoffan.jpg)
 ### Ansvarsområden
 
 Vi har olika ansvarsområden i styrelsen. När man har ett barn på Bullret förpliktar man sig att enligt stadgarna vara med i styrelsen i ett år per barn. Det är valfritt vilket år man väljer att gå med när barnet går i förskolan. Man kan också vara med fler år i styrelsen om man önskar det.

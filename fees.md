@@ -10,4 +10,4 @@ permalink: /avgifter/
 
 **Barnavgift**: 500 kr/mnd
 
-![frontsida](/img/Velkommen.jpg)
+![fjarilar](/img/fjarilarna.jpg) ![gurkan](/img/gurkan.jpg) ![sinnesrummet](/img/sinnesrummet_oliver.jpg)
