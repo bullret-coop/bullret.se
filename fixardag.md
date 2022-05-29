@@ -14,6 +14,6 @@ Våra fixardagar avslutas alltid med en gemensam måltid och fika där barnen oc
 <img src="/img/fixardag.jpg" alt="Målning är en del av fixardagen" />
 </div>
 <div class="right-col">
-<img src="/img/fixardag2.jpg" alt="Nya leksaker sätts upp" />
+<img src="/img/forsidebildet.jpg" alt="på nya utforskarrumet" />
 </div>
 </div>

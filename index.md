@@ -2,6 +2,6 @@
 layout: default
 ---
 
-![Bullretsbarn](/img/Bullret_bobycycklar_forside.jpg)
+![Bullretsbarn](/img/forsidebildet_new.JPG)
 
 

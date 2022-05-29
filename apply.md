@@ -10,7 +10,7 @@ Vi har [öppet hus](/om/oppet-hus/) där intresserade föräldrar kan komma på 
 
 Vi har tre lediga platser från hösten 2022.
 
-Ni kan också ställa er i kö och anmäla ert intresse på [styrelse@bullret.se](mailto:styrelse@bullret.se). Bifoga då följande information:
+Ni kan också ställa er i kö och anmäla ert intresse på [hej@bullret.se](mailto:hej@bullret.se). Bifoga då följande information:
 
 * Namn för barnet/barnen du söker plats för.
 * Födelsedata för barnet/barnen du söker plats för.
