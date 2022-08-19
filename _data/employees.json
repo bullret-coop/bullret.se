@@ -2,29 +2,23 @@
     {
         "name": "Katarina",
         "title": "Rektor",
-        "bio": "Utbildad förskolelärare och sagopedagog",
-        "photo": "person"
-    },
-    {
-        "name": "Sofie",
-        "title": "Förskollärare",
-        "bio": "Utbildad förskolelärare och sagopedagog",
-        "photo": "person"
+        "bio": "Utbildad förskollärare och sagopedagog som brinner för sagor och berättande. Som rektor på förskolan älskar hon ordning och reda och att driva förskolans utveckling framåt ligger henne varmt om hjärtat. Hon bor i Hamburgsund tillsammans med sin man och två barn. Född och uppväxt i Fjällbacka och älskar närheten till havet. På fritiden umgås hon gärna med familj och vänner. När tiden finns snörar hon gärna på sig löparskorna och njuter i naturen.",
+        "photo": "personal/katarina"
     },
     {
         "name": "Fia",
         "title": "Barnskötare",
-        "bio": "",
-        "photo": "person"
-    },
-    {
-        "name": "Amanda",
-        "title": "Barnskötare",
-        "bio": "",
-        "photo": "person"
+        "bio": "Barnskötaren från Bullar´n som många känner till. Bor tillsammans med sin man och sin son på Östad, och har även två utflugna barn. På fritiden umgås Fia gärna med sin familj och sina vänner, och är du i Bullar´n och promenerar är det inte omöjligt att ni stöter på Fia som gärna tar promenader på sin lediga tid. I föreningslivet är det heller inte omöjligt att ni stöter på Fia, där är både driven och engagerad. ",
+        "photo": "personal/fia"
     },
     {
         "name": "Sahar",
+        "title": "Barnskötare",
+        "bio": "Barnskötaren som bor i Tanum tillsammans med sin man och sin son, och som inväntar familjens nykomling framåt höstkanten. Sahar har sedan hon började hos oss berikat oss med sina kunskaper från sitt hemland. På förskolan är Sahar en klippa med sitt lugn och trevliga bemötande både bland barn och vuxna.",
+        "photo": "personal/sahar"
+    },
+    {
+        "name": "Elin",
         "title": "Barnskötare",
         "bio": "",
         "photo": "person"
