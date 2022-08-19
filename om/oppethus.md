@@ -16,19 +16,19 @@ Varje termin har vi öppet hus, där man kan träffa pedagoger och andra föräl
 
 ### 2022
 
-Vi planerar för öppet hus i juni, då kan föräldrar och barn komma och hälsa på styrelse och pedagoger.
-Vi har tre lediga platser på Bullret. 
+Vi ska ha öppet hus 5 september kl.16:30-17:30. Då kan föräldrar och barn komma och hälsa på styrelse och pedagoger.
+Vi har fyra lediga platser på Bullret och har kapacitet för att ta emot ditt barn redan nu i höst :)
 
 <div class="h-event">
   <h3 class="p-name">Öppet hus / Föräldrafika</h3>
   <div class="time">
-    <time class="dt-start" datetime="2022-06-07 16:30">tisdag 2022-06-07, 16:30</time>
-    till <time class="dt-end" datetime="2022-06-07 17:30">17:30</time>
+    <time class="dt-start" datetime="2022-09-05 16:30">måndag 2022-09-05, 16:30</time>
+    till <time class="dt-end" datetime="2022-09-05 17:30">17:30</time>
     <span class="p-location">Bullret</span>
   </div>
   <p class="p-summary">Intresserade föräldrar kan träffa föräldrar och personal. Vi bjuder på kaffe och enkel fika.</p>
 </div>
 
-[![Inbjudan föräldrafika 2022](/img/fika_2022.png)](/assets/2022_foraldrafika.pdf)
+[![Inbjudan föräldrafika 2022](/img/fika_sep_2022.png)](/assets/2022_sep_foraldrafika.pdf)
 
 
